@@ -1,0 +1,22 @@
+strings/Strings.java
+ strings.Strings
+ifs/IF.java
+ ifs.IF
+fors/For.java
+ fors.For
+strings/BuilderDeString.java
+ strings.BuilderDeString
+whiles/While.java
+ whiles.While
+strings/StringFormat.java
+ strings.StringFormat
+operadores/Incremento.java
+ operadores.Incremento
+operadores/Igualdade.java
+ operadores.Igualdade
+operadores/Relacionais.java
+ operadores.Relacionais
+operadores/Logicos.java
+ operadores.Logicos
+operadores/Matematicos.java
+ operadores.Matematicos
